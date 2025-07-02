@@ -65,4 +65,4 @@ Detected BPM: 170.2
 - librosa
 - numpy
 
-# Project reformatted for proffessional presentation with Claude AI
+### Project reformatted for professional presentation with Claude AI
